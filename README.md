@@ -1,13 +1,13 @@
 # URZ — Ra Spirit
 ![Ra Spirit](Ra.png)
 
-A rasters demo screen for **Atari STE**: a hardware scroller.
+A rasters demo screen for **Atari STE**.
 
 ## Credits
 
 - **Code:** S!Ri
 - **Graphics:** S!Ri
-- **Fonts:** unknown artist
+- **Font:** unknown artist
 - **Music:** Max of Chronicle
 
 ## Running it
